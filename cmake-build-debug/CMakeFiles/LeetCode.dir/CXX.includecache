@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/study/LeetCode/LinkedList.cpp
+LinkedList.h
+D:/study/LeetCode/LinkedList.h
+iostream
+-
+
+D:/study/LeetCode/LinkedList.h
+
+D:/study/LeetCode/SubSequence.cpp
+SubSequence.h
+D:/study/LeetCode/SubSequence.h
+iostream
+-
+algorithm
+-
+
+D:/study/LeetCode/SubSequence.h
+vector
+-
+unordered_map
+-
+bits/unordered_map.h
+-
+
+D:/study/LeetCode/main.cpp
+iostream
+-
+SubSequence.cpp
+D:/study/LeetCode/SubSequence.cpp
+
